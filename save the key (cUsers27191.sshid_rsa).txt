@@ -1,0 +1,17 @@
+save the key (cUsers27191.sshid_rsa)存储私钥和公钥的路径
+
+
+The key fingerprint is:
+SHA256:FQH5ZZTCcEYllhKps8LQwMVSlACaSfH3rsOpl6El8JM 271913449@qq.com
+The key's randomart image is:
++---[RSA 3072]----+
+|.=o*+.  +OO=o.   |
+|oo= o   +++o+    |
+|+  = . . o.+     |
+| .. o +  ..      |
+|  oo.  +S        |
+|   Eooo          |
+|    *.+.         |
+|   . *.          |
+|   .o..          |
++----[SHA256]-----+
